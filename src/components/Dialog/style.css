@@ -1,0 +1,13 @@
+.dialog {
+  width: 350px;
+  height: auto;
+  padding: 10px 10px 20px 10px;
+}
+
+.dialog-header {
+  text-align: center;
+  font-size: 30;
+  color: #3f51b5;
+  font-weight: bold;
+  border-bottom: 1px solid #ccc;
+}
